@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">geoQuiz</string>
+    <string name="action_settings">Settings</string>
+   <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Correct">Correct!</string>
+    <string name="Wrong">Wrong!</string>
+    <string name="Next">Next</string>
+    <string name="Back">Back</string>
+    <string name="Cheat">Cheat!</string>
+  	<string name="Judgment">Cheating is wrong!</string>
+    <string name="Show_answer">Show answer</string>
+    <string name="Warning">Are you sure you what this?</string>
+    <string name="question1">Constantinopol is the largest city in Turky?</string>
+    <string name="question2">The Pacific Ocean is larger then Antalitic Ocean?</string>
+    <string name="question3">The source of the Nile River is in Egypt?</string>
+    <string name="question4">Bucharest is placed in Hungary?</string>
+     <string name="question5">New Delhi si the capital of France?</string>
+</resources>
